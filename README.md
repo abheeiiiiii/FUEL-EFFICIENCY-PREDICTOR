@@ -120,6 +120,19 @@ Polynomial Regression outperformed Linear Regression in terms of R² and RMSE
 
 Increasing polynomial degree reduced training error but increased test error after a point
 
+🔮 Future Improvements
+
+Add regularization (Ridge, Lasso)
+
+Try tree-based models (Random Forest, Gradient Boosting)
+
+Hyperparameter tuning
+
+Deploy as a web app using Flask or Streamlit
+
+👨‍💻 Author
+Abhinav Tiwar
+
 Cross-validation confirmed the robustness of the polynomial model
 
 Vehicle weight, horsepower, and interaction terms were strong predictors of MPG# FUEL-EFFICIENCY-PREDICTOR
