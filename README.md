@@ -22,7 +22,7 @@ Source: Seaborn built-in mpg dataset
 
 Total records: 398 (after removing missing values)
 
-Target variable: mpg
+Target variable: mpg. 
 
 Features Used
 
