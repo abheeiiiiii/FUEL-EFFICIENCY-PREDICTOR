@@ -11,7 +11,7 @@ In this project, a regression-based machine learning approach is used to predict
 The project compares:
 
 Linear Regression
-
+  
 Polynomial Regression (degree 2 and higher)
 
 and evaluates their performance using multiple metrics.
