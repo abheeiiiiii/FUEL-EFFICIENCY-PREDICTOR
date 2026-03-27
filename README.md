@@ -7,7 +7,7 @@ It demonstrates the complete machine learning pipeline: data preprocessing, feat
 
 Fuel efficiency is an important metric in automotive design and environmental analysis.
 In this project, a regression-based machine learning approach is used to predict MPG using the Auto MPG dataset.
-
+    
 The project compares:
 
 Linear Regression
