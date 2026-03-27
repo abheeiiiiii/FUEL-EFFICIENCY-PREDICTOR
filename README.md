@@ -130,7 +130,7 @@ Hyperparameter tuning
 
 Deploy as a web app using Flask or Streamlit
 
-👨‍💻 Author
+👨‍💻 Author 
 Abhinav Tiwar
 
 Cross-validation confirmed the robustness of the polynomial model
