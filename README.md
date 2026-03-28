@@ -17,7 +17,7 @@ Polynomial Regression (degree 2 and higher)
 and evaluates their performance using multiple metrics.
 
 📊 Dataset
-
+  
 Source: Seaborn built-in mpg dataset
 
 Total records: 398 (after removing missing values)
