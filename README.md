@@ -87,7 +87,7 @@ Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 
 R² Score
-
+  
 Adjusted R² Score
 
 4. Residual Analysis
