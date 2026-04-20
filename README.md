@@ -3,7 +3,7 @@
 This project predicts fuel efficiency (Miles Per Gallon – MPG) of vehicles using Linear Regression and Polynomial Regression based on engine and vehicle attributes.
 It demonstrates the complete machine learning pipeline: data preprocessing, feature engineering, model training, evaluation, bias–variance analysis, and cross-validation.
 
-📌 Project Overview
+📌 Project Overview. 
 
 Fuel efficiency is an important metric in automotive design and environmental analysis.
 In this project, a regression-based machine learning approach is used to predict MPG using the Auto MPG dataset.
